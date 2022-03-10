@@ -94,3 +94,13 @@ ENCFF282SBH        | 22670403    | 740271                | 2131288              
 
 ## Бонусное задание  
 
+Теоретический график для моей гистоновой метки:  
+
+<img src=https://github.com/TheMostKnown/hse_hw2_chip/blob/main/images/theory.PNG width=500/>  
+
+Я попробовал построить графики для двух образцов и у меня получилось следующее:  
+
+<img src=https://github.com/TheMostKnown/hse_hw2_chip/blob/main/images/result.png width=500/>  
+<img src=https://github.com/TheMostKnown/hse_hw2_chip/blob/main/images/result1.png width=500/>  
+
+Посмотрев на графики, можно сказать, что, в целом, расположения гистоновой метки относительно генов с теоретической информацией совпадают.
